@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manav Lade</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Firebase,Next.Js**
+- 🌱 I’m currently learning **Cloud**
 
-- 👨‍💻 All of my projects are available at [https://manavladeportfolio.netlify.app/](https://manavladeportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://manavladedev.vercel.app/](https://manavladedev.vercel.app/)
 
-- 💬 Ask me about **React, Java, Firebase, Next.js**
+- 💬 Ask me about **Full Stack, Java, Cloud**
 
 - 📫 How to reach me **manavlade14690@gmail.com**
 
-- 📄 Know about my experiences [https://manavladeportfolio.netlify.app/](https://manavladeportfolio.netlify.app/)
+- 📄 Know about my experiences [[https://manavladeportfolio.netlify.app/](https://manavladedev.vercel.app/)](https://manavladedev.vercel.app/)
 
 - ⚡ Fun fact **I think I am a beginner**
 
