@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **manavlade14690@gmail.com**
 
-- 📄 Know about my experiences [[https://manavladeportfolio.netlify.app/](https://manavladedev.vercel.app/)](https://manavladedev.vercel.app/)
+- 📄 Know about my experiences(https://manavladedev.vercel.app/)](https://manavladedev.vercel.app/)
 
 - ⚡ Fun fact **I think I am a beginner**
 
